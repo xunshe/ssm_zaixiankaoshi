@@ -4,12 +4,11 @@
 地址：[https://www.bisheyun.com/product/12](https://www.bisheyun.com/product/13)
 
 ### 运行环境
-
-JDK版本：1.8
-IDE工具：eclipse
-数据库: mysql
-编程语言: Java
-tomcat: 8.0
+JDK版本：1.8  
+IDE工具：eclipse  
+数据库: mysql  
+编程语言: Java  
+tomcat: 8.0  
 详细技术：HTML+CSS+JS+JSP+JAVA+SSM+MYSQL
 
 ### 主要功能
